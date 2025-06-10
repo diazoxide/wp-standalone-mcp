@@ -1,0 +1,20 @@
+{
+	"name": "wp-standalone-mcp",
+	"version": "1.0.0",
+	"type": "module",
+	"main": "index.js",
+	"keywords": ["modelcontextprotocol", "mcp", "server", "ai", "claude", "wordpress", "wp"],
+	"author": "diazoxide",
+	"license": "MIT",
+	"description": "A specialized connector service that facilitates communication between intelligent systems and content management platforms using standardized protocols. Features secure credential management and streamlined endpoint discovery for REST API interactions.",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"bin": {
+		"wp-standalone-mcp": "index.js"
+	},
+	"dependencies": {
+		"@modelcontextprotocol/sdk": "^1.0.4",
+		"axios": "^1.7.9"
+	}
+}

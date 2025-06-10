@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+*.tgz
+
+.idea/
+/wp-mcp-conf.json

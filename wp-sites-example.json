@@ -1,0 +1,13 @@
+{
+	"easydmarc-blog": {
+		"URL": "https://some.com",
+		"USER": "myuser",
+		"PASS": "my-app-password",
+		"FILTERS": {
+			"include": [],
+			"exclude": [
+				"/.*_delete_.*/"
+			]
+		}
+	}
+}
