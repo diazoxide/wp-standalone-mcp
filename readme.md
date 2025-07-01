@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/diazoxide-wp-standalone-mcp-badge.png)](https://mseep.ai/app/diazoxide-wp-standalone-mcp)
+
 # WordPress Standalone MCP Server
 
 A powerful [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that provides seamless integration between AI assistants and WordPress sites through the WordPress REST API. This server automatically discovers and creates individual tools for each WordPress REST API endpoint, enabling natural language WordPress management.
